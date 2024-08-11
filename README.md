@@ -6,7 +6,7 @@ I'm a full-stack developer doing my bachelors in technology, building my own dig
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arnav-n-thakur-620961238/">
-    <img alt="linkedin" title="Connect with me on LinkedIn" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+    <img alt="linkedin" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/stars/arnavspartan?color=55960c&style=for-the-badge&labelColor=0077B5&logo=star"/></a>
   <a href="https://x.com/arnavspartan">
     <img alt="twitter" title="Follow me on X" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://arnavspartan.beehiiv.com/">
