@@ -1,4 +1,4 @@
-# ArnavSpartan  
+# Arnav Thakur  
 
 **`Digital Craftsman (Developer/Writer/Creator)`**
 
